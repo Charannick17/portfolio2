@@ -1,6 +1,6 @@
 import React from 'react';
 import "./about.css";
-import AboutImg from "../../Assets/WhatsApp Image 2025-09-15 at 14.56.38_5aad5ce0.jpg";
+import AboutImg from "../../Assets/My_image.jpg";
 import CV from "../../Assets/Nese_CharanTeja_resume_.pdf";
 import Info from './info';
 // import ScrollDown from '..//about/ScrollDown';
