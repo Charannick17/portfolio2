@@ -5,23 +5,29 @@ const CodingProfiles = () => {
   const profiles = [
     {
       name: "LeetCode",
-      link: "https://leetcode.com/venumadhav2216",
+      link: "https://x.com/Charannick17",
       logo: "https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
     },
     {
       name: "GeeksforGeeks",
-      link: "https://www.geeksforgeeks.org/user/venumadh1d8r/",
+      link: "https://www.geeksforgeeks.org/user/ncharan229/",
       logo: "https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg"
     },
     {
       name: "CodeChef",
-      link: "https://www.codechef.com/users/venumadhav2212",
+      link: "https://www.codechef.com/users/ncharan229",
       logo: "https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.png"
     },
     {
       name: "HackerRank",
-      link: "https://www.hackerrank.com/venumadhav2212",
+      link: "https://www.hackerrank.com/profile/ncharan229",
       logo: "https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"
+    }
+    ,
+    {
+      name: "Coding Ninjas",
+      link: "https://www.naukri.com/code360/profile/cd407f8c-1fe1-4bef-b15e-a0f87d9d940b",
+      logo: "https://files.codingninjas.in/new-cn-logos-1-1711622387.svg"
     }
   ];
 
