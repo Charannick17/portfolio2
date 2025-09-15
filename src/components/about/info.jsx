@@ -12,12 +12,12 @@ const info = () => {
         <div className="about__box">
             <i className="bx bx-briefcase-alt"></i>
             <h3 className="about__title">Completed</h3>
-            <span className="about__subtitle">5+ Projects in AIML & 2 projects in MERN</span>
+            <span className="about__subtitle">5+ Projects in Data Analysis & 2 projects in ML</span>
         </div>
         <div className="about__box">
             <i className="bx bx-heart about__icon"></i>
-            <h3 className="about__title">Intrest</h3>
-            <span className="about__subtitle">AI, ML, GEN Ai & DSA</span>
+            <h3 className="about__title">Interest</h3>
+            <span className="about__subtitle">DSA, ML, GenAI & System Design </span>
         </div>
     </div>
   )

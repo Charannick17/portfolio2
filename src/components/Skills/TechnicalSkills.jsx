@@ -4,10 +4,12 @@ const TechnicalSkills = () => {
   const skills = [
     ['Java', 'Intermediate'],
     ['Web Technologies','Intermediate'],
-    ['Python','Intermediate'],
-    ['React js', 'Intermediate'],
-    ['Machine Learning', 'Intermediate'],
     ['MySQL', 'Intermediate'],
+    ['Python','Intermediate'],
+    
+    ['Machine Learning', 'Intermediate'],
+    ['Computer Vision','Beginner']
+    
   ];
 
   const column1 = skills.slice(0, 3);
