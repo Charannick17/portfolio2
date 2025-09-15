@@ -4,19 +4,19 @@ import './portfolio.css';
 const Portfolio = () => {
   const projects = [
     {
-      title: "Medical Appointment Booking System",
-      description: "Currently Working AI-powered medical Appointment scheduler with LangGraph, LangChain, Gemini, automating booking, insurance, and reminders.",
-      link: "https://github.com/Venu-16/Medical-Appointment-Scheduling-AI-Agent"
+      title: "Face Detection And Image Manipulation",
+      description: "Face Detection and Image Manipulation project with recognition, filtering, editing, processing.",
+      link: "https://github.com/Charannick17/FaceDetectionAndImageManipulation"
     },
     {
-      title: "AI Health Bot",
-      description: "Created a health chatbot using AI, NLP, and voice input and integrated NFT minting on the Aptos blockchain for secure medical records.",
-      link: "https://github.com/Venu-16/AI-Health-Bot-Medical-NFTs-on-Aptos-"
+      title: "Black Friday Data Analysis",
+      description: "Performed data cleaning, feature engineering, and generated actionable insights on user demographics, product categories, and spending habits.",
+      link: "https://github.com/Charannick17/Data-analysis"
     },
     {
-      title: "Ai-Travel-Planner",
-      description: "Developed an AI-powered travel planner that generates personalized itineraries tailored to individual user interests.",
-      link: "https://github.com/Venu-16/ai-travel-planner"
+      title: "VidyaAI+ Chatbot",
+      description: "Vidya AI: Student-focused chatbot built using Google Gemini API.",
+      link: "https://github.com/Charannick17/vidyaai-"
     }
   ];
 
