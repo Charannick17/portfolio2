@@ -2,9 +2,9 @@ import React, { useState, useEffect } from 'react';
 import emailjs from 'emailjs-com';
 import "./contact.css";
 
-const SERVICE_ID = 'service_6jz7f9v';
-const TEMPLATE_ID = 'template_r0yv1ey';
-const USER_ID = 'v77yqJaWnDpcnzQZe';
+const SERVICE_ID = 'service_yrfi88y';
+const TEMPLATE_ID = 'template_eh369kt';
+const USER_ID = 'exYEYYZf1KGfR_j56';
 
 const Contact = () => {
   const [formData, setFormData] = useState({ name: '', email: '', message: '' });
@@ -47,15 +47,15 @@ const Contact = () => {
           <div className="contact__cards grid">
             <div className="contact__card">
               <h3 className="contact__card-title">Email</h3>
-              <span className="contact__card-data">venumadhav143n@gmail.com</span>
-              <a href="mailto:venumadhav143n@gmail.com" className="contact__button">
+              <span className="contact__card-data">ncharan229@gmail.com</span>
+              <a href="mailto:ncharan229@gmail.com" className="contact__button">
                 Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i>
               </a>
             </div>
             <div className="contact__card">
               <h3 className="contact__card-title">Telegram</h3>
-              <span className="contact__card-data">@venumadhav</span>
-              <a href="https://t.me/vm_mt" target="_blank" rel="noreferrer" className="contact__button">
+              <span className="contact__card-data">@charan17</span>
+              <a href="https://t.me/charan17" target="_blank" rel="noreferrer" className="contact__button">
                 Chat with me <i className="bx bx-right-arrow-alt contact__button-icon"></i>
               </a>
             </div>
