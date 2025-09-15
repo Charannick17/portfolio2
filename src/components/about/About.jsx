@@ -1,6 +1,6 @@
 import React from 'react';
 import "./about.css";
-import AboutImg from "../../Assets/My_image.jpg";
+import AboutImg from "../../Assets/my_image__.jpg";
 import CV from "../../Assets/Nese_CharanTeja_resume_.pdf";
 import Info from './info';
 // import ScrollDown from '..//about/ScrollDown';
